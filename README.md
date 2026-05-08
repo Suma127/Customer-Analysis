@@ -22,7 +22,7 @@ The goal is to understand customer behavior and enable targeted marketing strate
 * **Python** (pandas, numpy)
 * **Matplotlib / Seaborn**
 * **Scikit-learn (KMeans)**
-* **Jupyter Notebook / Google Colab**
+* ** Google Colab**
 
 ---
 
